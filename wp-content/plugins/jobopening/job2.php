@@ -350,7 +350,7 @@ function skills_cpt_function()
 		}
 
 
-//Salary
+//Salaryy
 
 //this is the callback function of cpt metabox
 		function sal_cpt_function($post)
