@@ -1,0 +1,136 @@
+	.chosen-container .chosen-search input.chosen-search-input.cstm_search {
+    background-image: none;
+}
+
+
+.cstm_form_row .form-group input.form-control{
+	    width: 100%;
+    padding: 0 0 14px;
+    border: none;
+    border-bottom: 1px solid #e9ebf0;
+    color: #292d34;
+}
+
+.cstm_form_row .form-group .chosen-container a.chosen-single{
+    border: none;
+    border-bottom: 1px solid #e9ebf0;
+    color: #292d34;
+}
+ button.btn.btn-submit-cstm{
+	width: 50%;
+	padding: 15px 20px;
+	margin-top: 20px;
+  margin-bottom: 20px;
+}
+form#_cstm_validate {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 45px 55px;
+    margin: 0 auto 30px;
+    width: 100%;
+    max-width: 550px;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 15%);
+    background: #fff;
+}
+.cstm_form_row .form-group label{
+  display: block;
+}
+.cstm_form_row .form-group label{
+  display: block;
+}
+
+.cstm_viewmore_btn a:link{
+  background-color: orange;
+  color: white;
+  border-radius: 25px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+ 
+}
+.cstm_viewmore_btn a{
+  color: white;
+
+ 
+}
+
+.cstm_same {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  
+}
+
+.title_h1 a:link {
+  text-decoration: none;
+
+}
+.title_h1 a {
+  color: black;
+  
+}
+.cstm_row.cstm_css {
+    background-color: rgb(255, 255, 255);
+    border-width: 0px 1px 1px;
+    border-color: rgba(0, 0, 0, 0.08);
+    border-style: solid;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: rgb(0 0 0 / 12%) 12px 32px 60px -8px;
+    padding: 40px 30px;
+    /* border: 1px solid #234; */
+}
+
+.detail_post {
+  float: right;
+  width: 50%;
+  padding: 10px;
+  
+}
+@media screen and (max-width: 500px) {
+.detail_post {
+  float: right;
+  width: 50%;
+  padding: 10px;
+  
+}
+}
+
+.cstm_job_post_detail{
+     
+    padding-left: 300px
+}
+
+
+
+.cstm_btn a:link{
+  background-color: orange;
+  color: white;
+  border-radius: 25px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+ 
+}
+.cstm_btn a{
+  color: white;
+  margin-left:  300px;
+ 
+}
+.error {
+    color: red;
+}
+
+
+.icon img {
+  
+ 
+  padding-top: 80px;
+  padding-left:120px;
+}
+  body.currentjobopening-template-default{
+    background-color: white;
+}
+
