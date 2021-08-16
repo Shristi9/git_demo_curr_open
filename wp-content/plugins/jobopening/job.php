@@ -95,7 +95,7 @@ function responsibilities_save_metabox_data($post_id, $post)
 
 //SkillS 
 
-//this is the callback function of cpt metabox
+//this is the callback function of custom post type metabox
 function skills_cpt_function()
 {
 	// wp_nonce_field(basename(__FILE__), "skills_cpt_nonce");
