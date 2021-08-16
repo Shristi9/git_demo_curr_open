@@ -29,7 +29,7 @@ function responsibilities_register_metabox()
 {
 
 
-//CPT
+//CPT Hello
 
 	add_meta_box("responsibilities-cpt-id", "Responsibilities", "responsibilities_cpt_function", "current job opening", "normal", "low");
 	add_meta_box("skills-cpt-id", "Required Skills", "skills_cpt_function", "current job opening", "normal", "low");
