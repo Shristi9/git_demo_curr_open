@@ -93,7 +93,7 @@ function responsibilities_save_metabox_data($post_id, $post)
 
 
 
-//Skill 
+//SkillS 
 
 //this is the callback function of cpt metabox
 function skills_cpt_function()
